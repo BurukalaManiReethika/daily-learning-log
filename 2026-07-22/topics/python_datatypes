@@ -1,0 +1,22 @@
+#datatypes
+numeric
+1.int
+2.float
+3.boolean
+4.complex
+sequence
+1.strings
+2.list
+3.tuple
+dictionary
+sets
+int:intgers
+float:decimal number
+boolean:the ootput be true oe flase
+complex:a+ib real is a ,b is imaginary number
+strings:collection of strings 
+list:mutable,collection of different data types,we can use (),sequence is oredered
+tuple:inmutable,colllection of different data types data types,we can use [] , oredered sequence
+dictionary:it constist os key and values,unoredered sequence
+EXample:phone numbers key is name value is contact number 
+sets:there is no duplicates numbar only unqiue values ,unoreded sequence
