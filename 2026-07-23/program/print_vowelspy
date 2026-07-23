@@ -1,0 +1,11 @@
+n="mani"
+for ch in n:
+    if ch in "aioeu":
+        print(ch)
+    
+    
+#or
+n="mani"
+for ch in n:
+    if ch not in "aioeu":
+        print(ch)
