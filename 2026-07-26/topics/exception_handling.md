@@ -1,3 +1,4 @@
+exception handle used to handle error without stoping the program
 excpection when programs as error it woulde be run  
 withot exception handling
 a=10
