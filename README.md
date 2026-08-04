@@ -2,98 +2,203 @@
 
 # 📘 Daily Learning Log
 
-**One day. One file. No skipping.**
+### *Consistency beats intensity.*
 
-A public, timestamped record of everything I'm learning — built for consistency, not perfection.
+[![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)](https://python.org)
+[![GitHub](https://img.shields.io/badge/GitHub-Active-success?style=for-the-badge&logo=github)](https://github.com/BurukalaManiReethika)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Daily-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/)
+[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)]()
 
-![Streak](https://img.shields.io/badge/streak-🔥_active-orange)
-![Entries](https://img.shields.io/badge/entries-2-blue)
-![Started](https://img.shields.io/badge/started-July%202026-lightgrey)
-![License](https://img.shields.io/badge/license-MIT-green)
+*A public record of my journey toward becoming a Software Engineer through daily learning, coding, and continuous improvement.*
 
 </div>
 
 ---
 
-## 🎯 Why this exists
+# 🌟 Overview
 
-Memory is unreliable. Momentum is fragile. This repo fixes both.
+This repository serves as my personal engineering journal where I document everything I learn every day.
 
-- **Consistency over intensity** — a short honest entry beats a skipped day.
-- **Compounding notes** — today's confusion becomes tomorrow's reference.
-- **Proof of work** — growth you can point to, not just remember.
+Instead of learning randomly, I follow a structured roadmap covering Python, Data Structures & Algorithms, SQL, Backend Development, and Software Engineering fundamentals.
 
-## 🗂️ Structure
+The objective is simple:
+
+> **Learn → Practice → Build → Repeat**
+
+---
+
+# 🎯 Mission
+
+- Build strong programming fundamentals
+- Master Data Structures & Algorithms
+- Become interview-ready
+- Develop production-quality projects
+- Maintain consistency every day
+
+---
+
+# 📚 Learning Areas
+
+## 🐍 Python
+- Variables & Data Types
+- Operators
+- Conditional Statements
+- Loops
+- Functions
+- OOP
+- Exception Handling
+- File Handling
+- Modules & Packages
+- Iterators
+- Generators
+- Decorators
+- Regular Expressions
+- Virtual Environments
+- Advanced Python
+
+---
+
+## 🧩 Data Structures
+
+- Arrays
+- Strings
+- Hash Maps
+- Sets
+- Linked Lists
+- Stacks
+- Queues
+- Trees
+- Binary Search Trees
+- Heaps
+- Graphs
+- Tries
+
+---
+
+## ⚡ Algorithms
+
+- Sorting
+- Searching
+- Binary Search
+- Two Pointers
+- Sliding Window
+- Prefix Sum
+- Greedy
+- Backtracking
+- Dynamic Programming
+- Graph Algorithms
+
+---
+
+## 💾 SQL
+
+- CRUD Operations
+- Joins
+- Aggregate Functions
+- Group By
+- Having
+- Subqueries
+- Window Functions
+- Indexes
+- Database Design
+
+---
+
+## 🚀 Backend Development
+
+- Flask
+- REST APIs
+- JSON
+- Authentication
+- Deployment
+- Git & GitHub
+
+---
+
+# 📅 Daily Workflow
+
+```text
+Learn a Concept
+        │
+        ▼
+Practice Examples
+        │
+        ▼
+Solve LeetCode Problems
+        │
+        ▼
+Write Notes
+        │
+        ▼
+Push to GitHub
+```
+
+---
+
+# 📂 Repository Structure
 
 ```
 daily-learning-log/
-├── 2026/
-│   ├── 07-July/
-│   │   ├── 2026-07-22.md
-│   │   └── 2026-07-23.md
-│   └── 08-August/
-└── templates/
-    └── daily-template.md
+│
+├── Python/
+├── SQL/
+├── DSA/
+├── LeetCode/
+├── Notes/
+├── Projects/
+├── Resources/
+└── README.md
 ```
 
-## 📝 Entry format
+---
 
-Every day gets one file, following this template:
+# 🏆 Current Goals
 
-```markdown
-# YYYY-MM-DD
+- ✅ Daily GitHub Contributions
+- ✅ Master Python
+- ✅ Complete LeetCode 75
+- 🔄 Solve 500+ LeetCode Problems
+- 🔄 Build 20+ Real-world Projects
+- 🔄 Crack Software Engineering Interviews
 
-## Topics
-- 
+---
 
-## What I learned
-- 
+# 📈 Progress Tracker
 
-## Resources
-- 
+| Area | Progress |
+|-------|----------|
+| Python | ████████░░ 80% |
+| SQL | ██████░░░░ 60% |
+| DSA | █████░░░░░ 50% |
+| LeetCode | ███████░░░ Daily |
+| Backend | ████░░░░░░ 40% |
+| Projects | ██████░░░░ Ongoing |
 
-## Questions / follow-ups
-- 
-```
+---
 
-> Copy `templates/daily-template.md` → rename to today's date → fill it in. That's the whole workflow.
+# 💡 Quote That Drives Me
 
-## 📅 Log
+> **"Success is the sum of small efforts repeated day in and day out."**  
+> — Robert Collier
 
-### 2026
+---
 
-| Date | Topic | Notes |
-|------|-------|-------|
-| [Jul 22](./2026/07-July/2026-07-22.md) | _topic here_ | |
-| [Jul 23](./2026/07-July/2026-07-23.md) | _topic here_ | |
+# 🤝 Connect With Me
 
-<sub>Table updated as entries are added — newest at the bottom.</sub>
+### 👩‍💻 Burukala Mani Reethika
 
-## 📏 Rules
+💼 **LinkedIn**  
+https://www.linkedin.com/in/burukala-mani-reethika
 
-1. **Write something every day** — even two lines count.
-2. **No entry is too small.** Small beats skipped.
-3. **Quality of thought > length.** This isn't a word-count exercise.
-4. **Miss a day? Don't miss two.** Log it and move on — no guilt entries.
-
-## 📊 Stats
-
-- **Started:** July 22, 2026
-- **Total entries:** 2
-- **Current streak:** 2 days
-
-<sub>(Update manually, or automate later with a small script that counts `.md` files under each month.)</sub>
-
-## 🚀 Roadmap
-
-- [ ] Auto-generate the log table from folder contents (GitHub Action)
-- [ ] Add weekly summary rollups
-- [ ] Tag entries by topic for a searchable index
+💻 **GitHub**  
+https://github.com/BurukalaManiReethika
 
 ---
 
 <div align="center">
 
-*Started July 22, 2026 — still going.*
+### ⭐ If you like this repository, consider giving it a Star!
+
+**Thanks for visiting my learning journey! 🚀**
 
 </div>
